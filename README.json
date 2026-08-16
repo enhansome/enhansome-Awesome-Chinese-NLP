@@ -72,7 +72,7 @@
             "last_commit": "2026-03-11T11:57:37Z",
             "owner": "HIT-SCIR",
             "repo": "ltp",
-            "stars": 5257
+            "stars": 5256
           }
         },
         {
@@ -305,7 +305,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T02:51:11Z",
+            "last_commit": "2026-08-15T06:59:27Z",
             "owner": "stanfordnlp",
             "repo": "stanza",
             "stars": 7861
@@ -356,7 +356,7 @@
             "last_commit": "2024-08-21T09:23:45Z",
             "owner": "fxsjy",
             "repo": "jieba",
-            "stars": 35112
+            "stars": 35114
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2023-11-19T06:15:23Z",
             "owner": "NLPchina",
             "repo": "ansj_seg",
-            "stars": 6520
+            "stars": 6519
           }
         },
         {
@@ -572,7 +572,7 @@
             "last_commit": "2025-09-28T14:46:03Z",
             "owner": "mit-nlp",
             "repo": "MITIE",
-            "stars": 2961
+            "stars": 2962
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2026-08-12T12:14:29Z",
             "owner": "gunthercox",
             "repo": "ChatterBot",
-            "stars": 14507
+            "stars": 14508
           }
         },
         {
@@ -788,7 +788,7 @@
             "last_commit": "2023-06-12T21:26:44Z",
             "owner": "thu-coai",
             "repo": "CDial-GPT",
-            "stars": 1960
+            "stars": 1961
           }
         },
         {
@@ -948,7 +948,7 @@
             "last_commit": "2026-06-17T01:56:08Z",
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53128
+            "stars": 53131
           }
         },
         {
@@ -976,7 +976,7 @@
             "last_commit": "2023-12-26T08:52:43Z",
             "owner": "pwxcoo",
             "repo": "chinese-xinhua",
-            "stars": 11647
+            "stars": 11648
           }
         },
         {
@@ -1018,7 +1018,7 @@
             "last_commit": "2024-04-25T09:14:25Z",
             "owner": "Morizeyao",
             "repo": "GPT2-Chinese",
-            "stars": 7600
+            "stars": 7599
           }
         },
         {
@@ -1046,7 +1046,7 @@
             "last_commit": "2023-12-06T02:04:16Z",
             "owner": "ownthink",
             "repo": "KnowledgeGraphData",
-            "stars": 5197
+            "stars": 5198
           }
         },
         {
@@ -1144,7 +1144,7 @@
             "last_commit": "2020-09-23T21:06:45Z",
             "owner": "candlewill",
             "repo": "Dialog_Corpus",
-            "stars": 2055
+            "stars": 2056
           }
         },
         {
@@ -1172,7 +1172,7 @@
             "last_commit": "2024-03-27T04:57:45Z",
             "owner": "wainshine",
             "repo": "Company-Names-Corpus",
-            "stars": 1294
+            "stars": 1295
           }
         },
         {
@@ -1228,7 +1228,7 @@
             "last_commit": "2023-01-08T03:15:16Z",
             "owner": "kfcd",
             "repo": "chaizi",
-            "stars": 819
+            "stars": 820
           }
         },
         {
@@ -1462,7 +1462,7 @@
             "last_commit": "2019-12-03T04:25:44Z",
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37358
+            "stars": 37359
           }
         },
         {
@@ -1504,7 +1504,7 @@
             "last_commit": "2019-11-26T07:08:27Z",
             "owner": "zibuyu",
             "repo": "research_tao",
-            "stars": 2069
+            "stars": 2068
           }
         },
         {
@@ -1526,7 +1526,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T00:25:06.404Z",
+    "last_updated": "2026-08-16T00:25:37.117Z",
     "original_repository": "crownpku/Awesome-Chinese-NLP",
     "original_repository_sha": "923e20ae68723d30a62fc48d3e552bf3ba6a0829",
     "enhanced_repository": "enhansome/enhansome-Awesome-Chinese-NLP",
