@@ -98,7 +98,7 @@
                 "last_commit": "2025-11-15T23:08:17Z",
                 "owner": "hankcs",
                 "repo": "HanLP",
-                "stars": 36477
+                "stars": 36480
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2021-05-25T10:46:36Z",
                 "owner": "baidu",
                 "repo": "lac",
-                "stars": 4002
+                "stars": 4001
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2022-05-07T01:51:20Z",
                 "owner": "ownthink",
                 "repo": "Jiagu",
-                "stars": 3426
+                "stars": 3425
               }
             },
             {
@@ -357,7 +357,7 @@
                 "archived": false,
                 "id": 11008076,
                 "language": "Java",
-                "last_commit": "2026-08-20T23:48:05Z",
+                "last_commit": "2026-08-21T23:00:49Z",
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
                 "stars": 10102
@@ -472,7 +472,7 @@
                 "last_commit": "2026-06-10T19:54:00Z",
                 "owner": "go-ego",
                 "repo": "gse",
-                "stars": 2842
+                "stars": 2841
               }
             },
             {
@@ -584,7 +584,7 @@
                 "last_commit": "2023-09-28T05:55:11Z",
                 "owner": "brightmart",
                 "repo": "text_classification",
-                "stars": 7939
+                "stars": 7940
               }
             },
             {
@@ -629,7 +629,7 @@
                 "last_commit": "2026-03-15T21:59:35Z",
                 "owner": "facebook",
                 "repo": "duckling",
-                "stars": 4307
+                "stars": 4308
               }
             },
             {
@@ -659,7 +659,7 @@
                 "last_commit": "2025-09-28T14:46:03Z",
                 "owner": "mit-nlp",
                 "repo": "MITIE",
-                "stars": 2963
+                "stars": 2962
               }
             },
             {
@@ -771,7 +771,7 @@
                 "last_commit": "2026-07-24T07:39:04Z",
                 "owner": "RasaHQ",
                 "repo": "rasa",
-                "stars": 21297
+                "stars": 21301
               }
             },
             {
@@ -816,7 +816,7 @@
                 "last_commit": "2025-08-06T07:11:40Z",
                 "owner": "deeppavlov",
                 "repo": "DeepPavlov",
-                "stars": 6989
+                "stars": 6990
               }
             },
             {
@@ -876,7 +876,7 @@
                 "last_commit": "2019-06-05T08:22:16Z",
                 "owner": "RasaHQ",
                 "repo": "rasa_core",
-                "stars": 2343
+                "stars": 2342
               }
             },
             {
@@ -1067,7 +1067,7 @@
             "last_commit": "2026-06-17T01:56:08Z",
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53195
+            "stars": 53207
           }
         },
         {
@@ -1082,7 +1082,7 @@
             "last_commit": "2023-10-30T14:44:50Z",
             "owner": "Embedding",
             "repo": "Chinese-Word-Vectors",
-            "stars": 12226
+            "stars": 12227
           }
         },
         {
@@ -1097,7 +1097,7 @@
             "last_commit": "2023-12-26T08:52:43Z",
             "owner": "pwxcoo",
             "repo": "chinese-xinhua",
-            "stars": 11650
+            "stars": 11652
           }
         },
         {
@@ -1127,7 +1127,7 @@
             "last_commit": "2026-02-06T11:42:20Z",
             "owner": "brightmart",
             "repo": "nlp_chinese_corpus",
-            "stars": 9910
+            "stars": 9909
           }
         },
         {
@@ -1142,7 +1142,7 @@
             "last_commit": "2024-04-25T09:14:25Z",
             "owner": "Morizeyao",
             "repo": "GPT2-Chinese",
-            "stars": 7596
+            "stars": 7595
           }
         },
         {
@@ -1172,7 +1172,7 @@
             "last_commit": "2023-12-06T02:04:16Z",
             "owner": "ownthink",
             "repo": "KnowledgeGraphData",
-            "stars": 5198
+            "stars": 5199
           }
         },
         {
@@ -1202,7 +1202,7 @@
             "last_commit": "2025-02-11T14:23:01Z",
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4386
+            "stars": 4387
           }
         },
         {
@@ -1598,7 +1598,7 @@
             "last_commit": "2019-12-03T04:25:44Z",
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37361
+            "stars": 37359
           }
         },
         {
@@ -1643,7 +1643,7 @@
             "last_commit": "2019-11-26T07:08:27Z",
             "owner": "zibuyu",
             "repo": "research_tao",
-            "stars": 2068
+            "stars": 2069
           }
         },
         {
@@ -1666,7 +1666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T00:27:09.009Z",
+    "last_updated": "2026-08-22T00:24:26.996Z",
     "original_repository": "crownpku/Awesome-Chinese-NLP",
     "original_repository_id": 97191792,
     "original_repository_sha": "923e20ae68723d30a62fc48d3e552bf3ba6a0829",
