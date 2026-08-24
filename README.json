@@ -98,7 +98,7 @@
                 "last_commit": "2025-11-15T23:08:17Z",
                 "owner": "hankcs",
                 "repo": "HanLP",
-                "stars": 36479
+                "stars": 36481
               }
             },
             {
@@ -357,7 +357,7 @@
                 "archived": false,
                 "id": 11008076,
                 "language": "Java",
-                "last_commit": "2026-08-23T23:14:10Z",
+                "last_commit": "2026-08-24T07:05:27Z",
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
                 "stars": 10102
@@ -427,7 +427,7 @@
                 "last_commit": "2024-08-21T09:23:45Z",
                 "owner": "fxsjy",
                 "repo": "jieba",
-                "stars": 35126
+                "stars": 35125
               }
             },
             {
@@ -472,7 +472,7 @@
                 "last_commit": "2026-06-10T19:54:00Z",
                 "owner": "go-ego",
                 "repo": "gse",
-                "stars": 2840
+                "stars": 2841
               }
             },
             {
@@ -599,7 +599,7 @@
                 "last_commit": "2026-06-08T19:59:20Z",
                 "owner": "snorkel-team",
                 "repo": "snorkel",
-                "stars": 5999
+                "stars": 6001
               }
             },
             {
@@ -629,7 +629,7 @@
                 "last_commit": "2026-03-15T21:59:35Z",
                 "owner": "facebook",
                 "repo": "duckling",
-                "stars": 4310
+                "stars": 4311
               }
             },
             {
@@ -771,7 +771,7 @@
                 "last_commit": "2026-07-24T07:39:04Z",
                 "owner": "RasaHQ",
                 "repo": "rasa",
-                "stars": 21302
+                "stars": 21304
               }
             },
             {
@@ -783,7 +783,7 @@
                 "archived": false,
                 "id": 24561828,
                 "language": "Python",
-                "last_commit": "2026-08-23T17:31:30Z",
+                "last_commit": "2026-08-24T10:41:22Z",
                 "owner": "gunthercox",
                 "repo": "ChatterBot",
                 "stars": 14509
@@ -801,7 +801,7 @@
                 "last_commit": "2024-08-08T07:55:05Z",
                 "owner": "liuhuanyong",
                 "repo": "QASystemOnMedicalKG",
-                "stars": 7355
+                "stars": 7358
               }
             },
             {
@@ -816,7 +816,7 @@
                 "last_commit": "2025-08-06T07:11:40Z",
                 "owner": "deeppavlov",
                 "repo": "DeepPavlov",
-                "stars": 6990
+                "stars": 6989
               }
             },
             {
@@ -831,7 +831,7 @@
                 "last_commit": "2023-05-22T16:10:15Z",
                 "owner": "snipsco",
                 "repo": "snips-nlu",
-                "stars": 3973
+                "stars": 3972
               }
             },
             {
@@ -1048,6 +1048,28 @@
           "description": null,
           "node_type": "group",
           "title": "QA & Chatbot 问答和聊天机器人"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Chinese-CLIP",
+              "description": "(Python) Chinese-CLIP是中文多模态图文表征预训练模型。其基于OpenAI的CLIP模型结构，利用大规模中文原生图文语料完成预训练，目前开源了多个模型规模，同时公开了技术报告论文及检索demo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 511745849,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-03-31T13:27:44Z",
+                "owner": "OFA-Sys",
+                "repo": "Chinese-CLIP",
+                "stars": 5994
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multi-Modal Representation & Retrieval 多模态表征与检索"
         }
       ],
       "title": "Chinese NLP Toolkits 中文NLP工具"
@@ -1067,7 +1089,7 @@
             "last_commit": "2026-06-17T01:56:08Z",
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53221
+            "stars": 53228
           }
         },
         {
@@ -1097,7 +1119,7 @@
             "last_commit": "2023-12-26T08:52:43Z",
             "owner": "pwxcoo",
             "repo": "chinese-xinhua",
-            "stars": 11655
+            "stars": 11656
           }
         },
         {
@@ -1112,7 +1134,7 @@
             "last_commit": "2026-04-19T00:57:10Z",
             "owner": "ymcui",
             "repo": "Chinese-BERT-wwm",
-            "stars": 10223
+            "stars": 10222
           }
         },
         {
@@ -1157,7 +1179,7 @@
             "last_commit": "2019-01-29T11:21:37Z",
             "owner": "SophonPlus",
             "repo": "ChineseNlpCorpus",
-            "stars": 6594
+            "stars": 6593
           }
         },
         {
@@ -1217,7 +1239,7 @@
             "last_commit": "2025-11-09T15:23:52Z",
             "owner": "wainshine",
             "repo": "Chinese-Names-Corpus",
-            "stars": 4326
+            "stars": 4325
           }
         },
         {
@@ -1382,7 +1404,7 @@
             "last_commit": "2019-09-26T16:12:59Z",
             "owner": "shijiebei2009",
             "repo": "CEC-Corpus",
-            "stars": 721
+            "stars": 722
           }
         },
         {
@@ -1613,7 +1635,7 @@
             "last_commit": "2023-01-31T05:37:16Z",
             "owner": "jacobeisenstein",
             "repo": "gt-nlp-class",
-            "stars": 5080
+            "stars": 5079
           }
         },
         {
@@ -1666,7 +1688,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T00:25:26.599Z",
+    "last_updated": "2026-08-24T13:53:29.216Z",
     "original_repository": "crownpku/Awesome-Chinese-NLP",
     "original_repository_id": 97191792,
     "original_repository_sha": "923e20ae68723d30a62fc48d3e552bf3ba6a0829",
