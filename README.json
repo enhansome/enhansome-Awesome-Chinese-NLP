@@ -1349,7 +1349,7 @@
                 "open_issues": 72,
                 "owner": "gunthercox",
                 "repo": "ChatterBot",
-                "stars": 14507,
+                "stars": 14508,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -1937,7 +1937,7 @@
             "open_issues": 38,
             "owner": "pwxcoo",
             "repo": "chinese-xinhua",
-            "stars": 11659,
+            "stars": 11660,
             "topics": [
               "chinese",
               "chinese-characters",
@@ -2883,7 +2883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:13:36.072Z",
+    "last_updated": "2026-08-29T04:33:14.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
