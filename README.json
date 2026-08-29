@@ -9,12 +9,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
+            "homepage": null,
             "id": 97191792,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-07-27T02:54:52Z",
+            "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7925
+            "stars": 7926,
+            "topics": [
+              "chinese-nlp",
+              "nlp"
+            ]
           },
           "title": "1. Chinese NLP Toolkits 中文NLP工具",
           "first_seen": "2026-08-28T07:07:51.800Z"
@@ -25,12 +33,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
+            "homepage": null,
             "id": 97191792,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-07-27T02:54:52Z",
+            "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7925
+            "stars": 7926,
+            "topics": [
+              "chinese-nlp",
+              "nlp"
+            ]
           },
           "title": "2. Corpus 中文语料",
           "first_seen": "2026-08-28T07:07:51.800Z"
@@ -41,12 +57,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
+            "homepage": null,
             "id": 97191792,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-07-27T02:54:52Z",
+            "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7925
+            "stars": 7926,
+            "topics": [
+              "chinese-nlp",
+              "nlp"
+            ]
           },
           "title": "3. Organizations 中文NLP学术组织及竞赛",
           "first_seen": "2026-08-28T07:07:51.800Z"
@@ -57,12 +81,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
+            "homepage": null,
             "id": 97191792,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-07-27T02:54:52Z",
+            "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7925
+            "stars": 7926,
+            "topics": [
+              "chinese-nlp",
+              "nlp"
+            ]
           },
           "title": "4. Industry 中文NLP商业服务",
           "first_seen": "2026-08-28T07:07:51.800Z"
@@ -73,12 +105,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
+            "homepage": null,
             "id": 97191792,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-07-27T02:54:52Z",
+            "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7925
+            "stars": 7926,
+            "topics": [
+              "chinese-nlp",
+              "nlp"
+            ]
           },
           "title": "5. Learning Materials 学习资料",
           "first_seen": "2026-08-28T07:07:51.800Z"
@@ -98,12 +138,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+                "homepage": "https://www.hanlp.com/",
                 "id": 24976755,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-15T23:08:17Z",
+                "open_issues": 12,
                 "owner": "hankcs",
                 "repo": "HanLP",
-                "stars": 36481
+                "stars": 36481,
+                "topics": [
+                  "dependency-parser",
+                  "hanlp",
+                  "named-entity-recognition",
+                  "natural-language-processing",
+                  "nlp",
+                  "pos-tagging",
+                  "semantic-parsing",
+                  "text-classification"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -114,12 +168,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for processing Chinese text",
+                "homepage": null,
                 "id": 14715502,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-01-19T02:39:05Z",
+                "open_issues": 44,
                 "owner": "isnowfy",
                 "repo": "snownlp",
-                "stars": 6634
+                "stars": 6633,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -130,12 +189,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Language Technology Platform",
+                "homepage": "http://ltp.ai",
                 "id": 1832321,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-11T11:57:37Z",
+                "open_issues": 75,
                 "owner": "HIT-SCIR",
                 "repo": "ltp",
-                "stars": 5259
+                "stars": 5259,
+                "topics": [
+                  "chinese-nlp",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -146,12 +215,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "百度NLP：分词，词性标注，命名实体识别，词重要性",
+                "homepage": null,
                 "id": 139385800,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-25T10:46:36Z",
+                "open_issues": 158,
                 "owner": "baidu",
                 "repo": "lac",
-                "stars": 4001
+                "stars": 4001,
+                "topics": [
+                  "chinese-nlp",
+                  "chinese-word-segmentation",
+                  "java",
+                  "lexical-analysis",
+                  "named-entity-recognition",
+                  "part-of-speech-tagger",
+                  "python",
+                  "word-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -162,12 +245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "http://www.nlpir.org/",
                 "id": 35019208,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-07-30T02:38:33Z",
+                "open_issues": 145,
                 "owner": "NLPIR-team",
                 "repo": "NLPIR",
-                "stars": 3475
+                "stars": 3475,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -178,12 +266,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jiagu深度学习自然语言处理工具  知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类",
+                "homepage": "https://www.ownthink.com/",
                 "id": 163566389,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-07T01:51:20Z",
+                "open_issues": 16,
                 "owner": "ownthink",
                 "repo": "Jiagu",
-                "stars": 3424
+                "stars": 3424,
+                "topics": [
+                  "chinese-word-segmentation",
+                  "cws",
+                  "ner",
+                  "nlp",
+                  "pos"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -194,12 +293,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.",
+                "homepage": "https://gitee.com/fastnlp/fastNLP",
                 "id": 124240220,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-05T03:00:37Z",
+                "open_issues": 71,
                 "owner": "FudanNLP",
                 "repo": "fastNLP",
-                "stars": 3141
+                "stars": 3141,
+                "topics": [
+                  "chinese-nlp",
+                  "deep-learning",
+                  "natural-language-processing",
+                  "nlp-library",
+                  "nlp-parsing",
+                  "text-classification",
+                  "text-processing"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -210,12 +322,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "中文自然语言处理工具包 Toolkit for Chinese natural language processing",
+                "homepage": null,
                 "id": 17651735,
                 "language": "Java",
+                "license": "LGPL-3.0",
                 "last_commit": "2023-11-17T04:27:43Z",
+                "open_issues": 43,
                 "owner": "FudanNLP",
                 "repo": "fnlp",
-                "stars": 2684
+                "stars": 2684,
+                "topics": [
+                  "fnlp",
+                  "fudannlp",
+                  "java",
+                  "nlp-library"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -226,12 +348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Chinese Nature Language Toolkit",
+                "homepage": null,
                 "id": 114315275,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-02-17T01:39:50Z",
+                "open_issues": 14,
                 "owner": "rockyzhengwu",
                 "repo": "FoolNLTK",
-                "stars": 1677
+                "stars": 1677,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -242,12 +369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning NLP Pipeline implemented on Tensorflow",
+                "homepage": null,
                 "id": 72084173,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-11T16:02:55Z",
+                "open_issues": 43,
                 "owner": "rockingdingo",
                 "repo": "deepnlp",
-                "stars": 1358
+                "stars": 1358,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -258,12 +390,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "xmnlp：提供中文分词, 词性标注, 命名体识别，情感分析，文本纠错，文本转拼音，文本摘要，偏旁部首，句子表征及文本相似度计算等功能",
+                "homepage": null,
                 "id": 120146329,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-12T03:29:39Z",
+                "open_issues": 9,
                 "owner": "SeanLee97",
                 "repo": "xmnlp",
-                "stars": 1297
+                "stars": 1296,
+                "topics": [
+                  "lexical-analysis",
+                  "ner",
+                  "nlp",
+                  "pinyin",
+                  "postagging",
+                  "radical",
+                  "segmentation",
+                  "sentence-embeddings",
+                  "sentence-similarity",
+                  "sentiment-analysis",
+                  "spell-checker"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -274,12 +423,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "基于Pytorch和torchtext的自然语言处理深度学习框架。",
+                "homepage": null,
                 "id": 167496468,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-12-14T12:58:37Z",
+                "open_issues": 6,
                 "owner": "smilelight",
                 "repo": "lightNLP",
-                "stars": 830
+                "stars": 830,
+                "topics": [
+                  "cbow",
+                  "chinese",
+                  "cws",
+                  "deep-learning",
+                  "dependency-parsing",
+                  "hierarchical-softmax",
+                  "language-model",
+                  "nature-language-process",
+                  "negative-sampling",
+                  "nlp",
+                  "pos",
+                  "python",
+                  "pytorch",
+                  "relation-extraction",
+                  "sentence-similarity",
+                  "skip-gram",
+                  "srl",
+                  "text-classification",
+                  "torchtext",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -290,12 +465,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "专注于可解释的NLP技术 An NLP Toolset With A Focus on Explainable Inference",
+                "homepage": null,
                 "id": 167669331,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2021-02-03T08:08:42Z",
+                "open_issues": 21,
                 "owner": "smoothnlp",
                 "repo": "SmoothNLP",
-                "stars": 622
+                "stars": 622,
+                "topics": [
+                  "depedency-parsing",
+                  "nlp",
+                  "nlp-pipeline",
+                  "postagging",
+                  "python",
+                  "tokenizer"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -306,12 +493,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A web-based annotation tool for natural language processing (NLP)",
+                "homepage": "https://synyi.github.io/poplar/",
                 "id": 62111698,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2022-12-11T06:37:18Z",
+                "open_issues": 67,
                 "owner": "synyi",
                 "repo": "poplar",
-                "stars": 528
+                "stars": 528,
+                "topics": [
+                  "annotation",
+                  "nlp",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -322,12 +518,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chinese Natural Language Processing tools and examples",
+                "homepage": null,
                 "id": 46844622,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2016-04-29T09:42:27Z",
+                "open_issues": 1,
                 "owner": "taozhijiang",
                 "repo": "chinese_nlp",
-                "stars": 161
+                "stars": 161,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -338,12 +539,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Pure python NLP toolkit",
+                "homepage": null,
                 "id": 47542344,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2016-01-20T08:55:44Z",
+                "open_issues": 1,
                 "owner": "Tony-Wang",
                 "repo": "YaYaNLP",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             }
@@ -361,12 +567,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Topic Modelling for Humans",
+                "homepage": "https://radimrehurek.com/gensim",
                 "id": 1349775,
                 "language": "Python",
+                "license": "LGPL-2.1",
                 "last_commit": "2025-11-01T12:01:39Z",
+                "open_issues": 440,
                 "owner": "piskvorky",
                 "repo": "gensim",
-                "stars": 16481
+                "stars": 16481,
+                "topics": [
+                  "data-mining",
+                  "data-science",
+                  "document-similarity",
+                  "fasttext",
+                  "gensim",
+                  "information-retrieval",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "neural-network",
+                  "nlp",
+                  "python",
+                  "topic-modeling",
+                  "word-embeddings",
+                  "word-similarity",
+                  "word2vec"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -377,12 +604,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.",
+                "homepage": "http://stanfordnlp.github.io/CoreNLP/",
                 "id": 11008076,
                 "language": "Java",
-                "last_commit": "2026-08-28T05:53:41Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T02:44:17Z",
+                "open_issues": 182,
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
-                "stars": 10102
+                "stars": 10102,
+                "topics": [
+                  "named-entity-recognition",
+                  "natural-language-processing",
+                  "nlp",
+                  "nlp-parsing",
+                  "stanford-nlp"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -393,12 +631,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages",
+                "homepage": "https://stanfordnlp.github.io/stanza/",
                 "id": 104854615,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T04:34:16Z",
+                "open_issues": 93,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7868
+                "stars": 7868,
+                "topics": [
+                  "artificial-intelligence",
+                  "corenlp",
+                  "deep-learning",
+                  "machine-learning",
+                  "named-entity-recognition",
+                  "natural-language-processing",
+                  "nlp",
+                  "python",
+                  "pytorch",
+                  "universal-dependencies"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -409,12 +663,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kashgari is a production-level NLP Transfer learning framework built on top of tf.keras for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.",
+                "homepage": "http://kashgari.readthedocs.io/",
                 "id": 166495086,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-03T21:05:29Z",
+                "open_issues": 28,
                 "owner": "BrikerMan",
                 "repo": "Kashgari",
-                "stars": 2381
+                "stars": 2381,
+                "topics": [
+                  "bert",
+                  "bert-model",
+                  "gpt-2",
+                  "machine-learning",
+                  "named-entity-recognition",
+                  "ner",
+                  "nlp",
+                  "nlp-framework",
+                  "seq2seq",
+                  "sequence-labeling",
+                  "text-classification",
+                  "text-labeling",
+                  "transfer-learning"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -425,12 +698,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NLP, before and after spaCy",
+                "homepage": "https://textacy.readthedocs.io",
                 "id": 51014761,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-22T23:38:28Z",
+                "open_issues": 35,
                 "owner": "chartbeat-labs",
                 "repo": "textacy",
-                "stars": 2239
+                "stars": 2239,
+                "topics": [
+                  "natural-language-processing",
+                  "nlp",
+                  "python",
+                  "spacy"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             }
@@ -448,12 +731,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "结巴中文分词",
+                "homepage": null,
                 "id": 6007295,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-21T09:23:45Z",
+                "open_issues": 700,
                 "owner": "fxsjy",
                 "repo": "jieba",
-                "stars": 35134
+                "stars": 35135,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -464,12 +752,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation",
+                "homepage": null,
                 "id": 143589809,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-05T13:37:41Z",
+                "open_issues": 135,
                 "owner": "lancopku",
                 "repo": "pkuseg-python",
-                "stars": 6710
+                "stars": 6710,
+                "topics": [
+                  "chinese-word-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -480,12 +775,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典",
+                "homepage": null,
                 "id": 5683140,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-19T06:15:23Z",
+                "open_issues": 54,
                 "owner": "NLPchina",
                 "repo": "ansj_seg",
-                "stars": 6515
+                "stars": 6515,
+                "topics": [
+                  "ansj",
+                  "chinese",
+                  "java",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -496,12 +801,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others.",
+                "homepage": null,
                 "id": 95233790,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-10T19:54:00Z",
+                "open_issues": 15,
                 "owner": "go-ego",
                 "repo": "gse",
-                "stars": 2841
+                "stars": 2840,
+                "topics": [
+                  "chinese",
+                  "english",
+                  "go",
+                  "gse",
+                  "hmm",
+                  "hmm-viterbi-algorithm",
+                  "japanese",
+                  "jieba",
+                  "nlp",
+                  "segment",
+                  "trie"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -512,12 +834,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning Chinese Word Segment ",
+                "homepage": null,
                 "id": 74712719,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2018-05-18T03:22:58Z",
+                "open_issues": 44,
                 "owner": "koth",
                 "repo": "kcws",
-                "stars": 2068
+                "stars": 2068,
+                "topics": [
+                  "chinese-text-segmentation",
+                  "deep-learning",
+                  "nlp",
+                  "pos-tagger",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -528,12 +861,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chinese word segmentation algorithm without corpus（无需语料库的中文分词）",
+                "homepage": null,
                 "id": 37320193,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-09-03T15:00:09Z",
+                "open_issues": 2,
                 "owner": "Moonshile",
                 "repo": "ChineseWordSegmentation",
-                "stars": 499
+                "stars": 499,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -544,12 +882,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "yaha",
+                "homepage": null,
                 "id": 12047992,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-09-13T16:35:40Z",
+                "open_issues": 5,
                 "owner": "jannson",
                 "repo": "yaha",
-                "stars": 264
+                "stars": 264,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -560,12 +903,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a chinese segment base on crf",
+                "homepage": null,
                 "id": 12236614,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-12-19T16:03:58Z",
+                "open_issues": 0,
                 "owner": "duanhongyi",
                 "repo": "genius",
-                "stars": 234
+                "stars": 234,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -576,12 +924,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source codes and corpora of paper \"Iterated Dilated Convolutions for Chinese Word Segmentation\"",
+                "homepage": null,
                 "id": 107699741,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-04-15T20:44:41Z",
+                "open_issues": 8,
                 "owner": "hankcs",
                 "repo": "ID-CNN-CWS",
-                "stars": 132
+                "stars": 132,
+                "topics": [
+                  "bilstm",
+                  "cnn",
+                  "crf",
+                  "cws",
+                  "nlp",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -592,12 +952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chinese segmentation library",
+                "homepage": null,
                 "id": 1619210,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2011-04-15T15:01:44Z",
+                "open_issues": 0,
                 "owner": "fangpenlin",
                 "repo": "loso",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             }
@@ -615,12 +980,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "all kinds of text classification models and more with deep learning",
+                "homepage": null,
                 "id": 92841276,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-28T05:55:11Z",
+                "open_issues": 46,
                 "owner": "brightmart",
                 "repo": "text_classification",
-                "stars": 7940
+                "stars": 7940,
+                "topics": [
+                  "attention-mechanism",
+                  "classification",
+                  "convolutional-neural-networks",
+                  "fasttext",
+                  "memory-networks",
+                  "multi-class",
+                  "multi-label",
+                  "nlp",
+                  "sentence-classification",
+                  "tensorflow",
+                  "text-classification",
+                  "textcnn",
+                  "textrnn"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -631,12 +1015,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A system for quickly generating training data with weak supervision",
+                "homepage": "https://snorkel.org",
                 "id": 52581991,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-08T19:59:20Z",
+                "open_issues": 19,
                 "owner": "snorkel-team",
                 "repo": "snorkel",
-                "stars": 6003
+                "stars": 6003,
+                "topics": [
+                  "ai",
+                  "data-augmentation",
+                  "data-science",
+                  "data-slicing",
+                  "labeling",
+                  "machine-learning",
+                  "python",
+                  "snorkel",
+                  "training-data",
+                  "weak-supervision"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -647,12 +1047,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " An Open-Source Package for Neural Relation Extraction (NRE)",
+                "homepage": null,
                 "id": 83191570,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-10T11:52:49Z",
+                "open_issues": 19,
                 "owner": "thunlp",
                 "repo": "OpenNRE",
-                "stars": 4467
+                "stars": 4467,
+                "topics": [
+                  "relation-extraction"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -663,12 +1070,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",
+                "homepage": null,
                 "id": 83621289,
                 "language": "Haskell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-15T21:59:35Z",
+                "open_issues": 140,
                 "owner": "facebook",
                 "repo": "duckling",
-                "stars": 4314
+                "stars": 4314,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -679,12 +1091,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":deciduous_tree:从中文文本中自动提取关键词和摘要",
+                "homepage": null,
                 "id": 27366414,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-07T01:33:48Z",
+                "open_issues": 10,
                 "owner": "letiantian",
                 "repo": "TextRank4ZH",
-                "stars": 3393
+                "stars": 3392,
+                "topics": [
+                  "keyword-extraction",
+                  "pagerank",
+                  "python",
+                  "textrank",
+                  "textrank-algorithm"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -695,12 +1118,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MITIE: library and tools for information extraction",
+                "homepage": null,
                 "id": 18347668,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2025-09-28T14:46:03Z",
+                "open_issues": 19,
                 "owner": "mit-nlp",
                 "repo": "MITIE",
-                "stars": 2962
+                "stars": 2962,
+                "topics": [
+                  "c-plus-plus",
+                  "information-extraction",
+                  "java",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -711,12 +1146,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Toolkit for Industrial Topic Modeling",
+                "homepage": null,
                 "id": 94299010,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-07-01T08:28:33Z",
+                "open_issues": 28,
                 "owner": "baidu",
                 "repo": "Familia",
-                "stars": 2644
+                "stars": 2644,
+                "topics": [
+                  "lda",
+                  "nlp",
+                  "sentence-lda",
+                  "topic-modeling",
+                  "topic-models",
+                  "twe"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -727,12 +1174,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction with biGRU+2ATT 中文实体识别与关系提取",
+                "homepage": null,
                 "id": 99792842,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-01T21:01:38Z",
+                "open_issues": 120,
                 "owner": "crownpku",
                 "repo": "Information-Extraction-Chinese",
-                "stars": 2264
+                "stars": 2264,
+                "topics": [
+                  "chinese-nlp",
+                  "information-extraction",
+                  "named-entity-recognition",
+                  "nlp",
+                  "relation-extraction"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -743,12 +1201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A neural network model for Chinese named entity recognition ",
+                "homepage": null,
                 "id": 80504468,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-08-09T07:26:28Z",
+                "open_issues": 69,
                 "owner": "zjy-ucas",
                 "repo": "ChineseNER",
-                "stars": 1822
+                "stars": 1822,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -759,12 +1222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A concept and obvious expression pattern collection of Chinese compound event extraction which then be evolved into ComplexEventGraph，本项目提出了中文复合事件的概念与显式模式，包括条件事件、因果事件、顺承事件、反转事件等事件抽取，并形成事理图谱。",
+                "homepage": null,
                 "id": 151089608,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-12-15T04:53:17Z",
+                "open_issues": 4,
                 "owner": "liuhuanyong",
                 "repo": "ComplexEventExtraction",
-                "stars": 1227
+                "stars": 1227,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -775,12 +1243,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "使用预训练语言模型BERT做中文NER",
+                "homepage": null,
                 "id": 159430135,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-02-26T05:58:03Z",
+                "open_issues": 3,
                 "owner": "ProHiryu",
                 "repo": "bert-chinese-ner",
-                "stars": 972
+                "stars": 972,
+                "topics": [
+                  "bert",
+                  "chinese",
+                  "fine-tune",
+                  "ner",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -791,12 +1270,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Information Extraction in Python",
+                "homepage": null,
                 "id": 18766036,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-10-15T11:20:09Z",
+                "open_issues": 46,
                 "owner": "machinalis",
                 "repo": "iepy",
-                "stars": 902
+                "stars": 902,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             }
@@ -814,12 +1298,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+                "homepage": "https://rasa.com/docs/rasa/",
                 "id": 70908208,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-24T07:39:04Z",
+                "open_issues": 153,
                 "owner": "RasaHQ",
                 "repo": "rasa",
-                "stars": 21311
+                "stars": 21311,
+                "topics": [
+                  "bot",
+                  "bot-framework",
+                  "botkit",
+                  "bots",
+                  "chatbot",
+                  "chatbots",
+                  "chatbots-framework",
+                  "conversation-driven-development",
+                  "conversational-agents",
+                  "conversational-ai",
+                  "conversational-bots",
+                  "machine-learning",
+                  "machine-learning-library",
+                  "mitie",
+                  "natural-language-processing",
+                  "nlp",
+                  "nlu",
+                  "rasa",
+                  "spacy",
+                  "wit"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -830,12 +1340,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChatterBot is a machine learning, conversational dialog engine for creating chat bots",
+                "homepage": "http://docs.chatterbot.us/",
                 "id": 24561828,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T11:30:40Z",
+                "open_issues": 72,
                 "owner": "gunthercox",
                 "repo": "ChatterBot",
-                "stars": 14508
+                "stars": 14507,
+                "topics": [
+                  "bot",
+                  "chatbot",
+                  "chatterbot",
+                  "conversation",
+                  "language",
+                  "machine-learning",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -846,12 +1369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。",
+                "homepage": null,
                 "id": 151528653,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-08T07:55:05Z",
+                "open_issues": 77,
                 "owner": "liuhuanyong",
                 "repo": "QASystemOnMedicalKG",
-                "stars": 7364
+                "stars": 7362,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -862,12 +1390,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source library for deep learning end-to-end dialog systems and chatbots.",
+                "homepage": "https://deeppavlov.ai",
                 "id": 111113343,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-06T07:11:40Z",
+                "open_issues": 56,
                 "owner": "deeppavlov",
                 "repo": "DeepPavlov",
-                "stars": 6988
+                "stars": 6988,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "bot",
+                  "chatbot",
+                  "chitchat",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "dialogue-agents",
+                  "dialogue-manager",
+                  "dialogue-systems",
+                  "entity-extraction",
+                  "intent-classification",
+                  "intent-detection",
+                  "machine-learning",
+                  "named-entity-recognition",
+                  "nlp",
+                  "nlp-machine-learning",
+                  "question-answering",
+                  "slot-filling",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -878,12 +1432,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snips Python library to extract meaning from text",
+                "homepage": "https://snips-nlu.readthedocs.io",
                 "id": 81349068,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-22T16:10:15Z",
+                "open_issues": 67,
                 "owner": "snipsco",
                 "repo": "snips-nlu",
-                "stars": 3973
+                "stars": 3973,
+                "topics": [
+                  "bot",
+                  "chatbot",
+                  "information-extraction",
+                  "intent-classification",
+                  "intent-parser",
+                  "machine-learning",
+                  "machine-learning-library",
+                  "ml",
+                  "named-entity-recognition",
+                  "ner",
+                  "nlp",
+                  "nlu",
+                  "python",
+                  "slot-filling",
+                  "snips",
+                  "text-classification"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -894,12 +1470,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型",
+                "homepage": null,
                 "id": 226807532,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-30T16:56:20Z",
+                "open_issues": 72,
                 "owner": "yangjianxin1",
                 "repo": "GPT2-chitchat",
-                "stars": 2996
+                "stars": 2996,
+                "topics": [
+                  "chichat",
+                  "dialogpt",
+                  "dialogue-model",
+                  "gpt-2",
+                  "gpt2",
+                  "nlp",
+                  "text-generation",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -910,12 +1500,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FAQ-based Question Answering System",
+                "homepage": null,
                 "id": 139385775,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2020-11-28T12:32:49Z",
+                "open_issues": 72,
                 "owner": "baidu",
                 "repo": "AnyQ",
-                "stars": 2574
+                "stars": 2574,
+                "topics": [
+                  "dialogue",
+                  "dialogue-systems",
+                  "faq",
+                  "faq-question-answering-system",
+                  "faq-system",
+                  "faqbot",
+                  "qa-system",
+                  "question-answering",
+                  "semantic-matching"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -926,12 +1531,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Rasa Core is now part of the Rasa repo: An open source machine learning framework to automate text-and voice-based conversations",
+                "homepage": "https://github.com/RasaHQ/rasa",
                 "id": 103934044,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-06-05T08:22:16Z",
+                "open_issues": 0,
                 "owner": "RasaHQ",
                 "repo": "rasa_core",
-                "stars": 2341
+                "stars": 2341,
+                "topics": [
+                  "bot",
+                  "bot-framework",
+                  "botkit",
+                  "bots",
+                  "chatbot",
+                  "chatbot-framework",
+                  "conversational-agents",
+                  "conversational-ai",
+                  "conversational-bots",
+                  "machine-learning",
+                  "machine-learning-library",
+                  "nlp",
+                  "rasa"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -942,12 +1566,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " A Large-scale Chinese Short-Text Conversation Dataset and Chinese pre-training dialog models ",
+                "homepage": null,
                 "id": 270670394,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-12T21:26:44Z",
+                "open_issues": 27,
                 "owner": "thu-coai",
                 "repo": "CDial-GPT",
-                "stars": 1963
+                "stars": 1963,
+                "topics": [
+                  "dialogue",
+                  "gpt",
+                  "gpt-2",
+                  "lccc",
+                  "pytorch",
+                  "text-generation"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -958,12 +1594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "QuestionAnsweringSystem是一个Java实现的人机问答系统，能够自动分析问题并给出候选答案。",
+                "homepage": null,
                 "id": 22356791,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-08-21T12:59:28Z",
+                "open_issues": 10,
                 "owner": "ysc",
                 "repo": "QuestionAnsweringSystem",
-                "stars": 1945
+                "stars": 1945,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -974,12 +1615,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Baseline Systems of DuReader Dataset",
+                "homepage": "http://ai.baidu.com/broad/subordinate?dataset=dureader",
                 "id": 110076861,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-05-26T09:30:46Z",
+                "open_issues": 26,
                 "owner": "baidu",
                 "repo": "DuReader",
-                "stars": 1178
+                "stars": 1178,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -990,12 +1636,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "基于SmartQQ的自动机器人框架",
+                "homepage": null,
                 "id": 29420877,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-02-11T03:43:29Z",
+                "open_issues": 18,
                 "owner": "Yinzo",
                 "repo": "SmartQQBot",
-                "stars": 991
+                "stars": 992,
+                "topics": [
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -1006,12 +1659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "基於向量匹配的情境式聊天機器人",
+                "homepage": null,
                 "id": 65004289,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-10-18T13:26:37Z",
+                "open_issues": 1,
                 "owner": "zake7749",
                 "repo": "Chatbot",
-                "stars": 907
+                "stars": 907,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -1022,12 +1680,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "使用TensorFlow实现的Sequence to Sequence的聊天机器人模型",
+                "homepage": null,
                 "id": 70499386,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-06-21T03:06:02Z",
+                "open_issues": 21,
                 "owner": "qhduan",
                 "repo": "Seq2Seq_Chatbot_QA",
-                "stars": 787
+                "stars": 787,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -1038,12 +1701,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "基于多搜索引擎和深度学习技术的自动问答",
+                "homepage": null,
                 "id": 91871689,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-04-06T12:33:13Z",
+                "open_issues": 0,
                 "owner": "SnakeHacker",
                 "repo": "QA-Snake",
-                "stars": 644
+                "stars": 644,
+                "topics": [
+                  "question-answering"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -1054,12 +1724,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "使用深度学习算法实现的中文问答系统",
+                "homepage": null,
                 "id": 97905745,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2018-10-19T04:42:56Z",
+                "open_issues": 18,
                 "owner": "shuaihuaiyi",
                 "repo": "QA",
-                "stars": 557
+                "stars": 557,
+                "topics": [
+                  "lstm",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -1070,12 +1748,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tipask是一款开放源码的PHP问答系统，基于Laravel框架开发，容易扩展，具有强大的负载能力和稳定性。",
+                "homepage": "http://www.tipask.com",
                 "id": 60315881,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-02-02T10:59:04Z",
+                "open_issues": 21,
                 "owner": "sdfsky",
                 "repo": "tipask",
-                "stars": 306
+                "stars": 306,
+                "topics": [
+                  "cms",
+                  "laravel",
+                  "php",
+                  "tipask",
+                  "tipask-php-laravel"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -1086,12 +1775,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 273050538,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2020-05-30T13:40:23Z",
+                "open_issues": 0,
                 "owner": "bwilcox-1234",
                 "repo": "ChatScript",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             },
@@ -1102,12 +1796,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Documentation for Chatstack: A Full Pipeline UI for building Chinese NLU System",
+                "homepage": "http://chatstack.ai",
                 "id": 202623184,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-09-07T04:07:11Z",
+                "open_issues": 0,
                 "owner": "chatstack-ai",
                 "repo": "Chatstack-Doc",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             }
@@ -1125,12 +1824,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.",
+                "homepage": null,
                 "id": 511745849,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-03-31T13:27:44Z",
+                "open_issues": 197,
                 "owner": "OFA-Sys",
                 "repo": "Chinese-CLIP",
-                "stars": 5999
+                "stars": 5999,
+                "topics": [
+                  "chinese",
+                  "clip",
+                  "computer-vision",
+                  "contrastive-loss",
+                  "coreml-models",
+                  "deep-learning",
+                  "image-text-retrieval",
+                  "multi-modal",
+                  "multi-modal-learning",
+                  "nlp",
+                  "pretrained-models",
+                  "pytorch",
+                  "transformers",
+                  "vision-and-language-pre-training",
+                  "vision-language"
+                ]
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
             }
@@ -1152,12 +1872,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。",
+            "homepage": "https://awesome-poetry.top/",
             "id": 67186968,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-17T01:56:08Z",
+            "open_issues": 137,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53280
+            "stars": 53285,
+            "topics": [
+              "chinese",
+              "chinese-poetry",
+              "ci",
+              "json",
+              "poetry",
+              "tangshi"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1168,12 +1900,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "100+ Chinese Word Vectors 上百种预训练中文词向量 ",
+            "homepage": null,
             "id": 116797311,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-30T14:44:50Z",
+            "open_issues": 60,
             "owner": "Embedding",
             "repo": "Chinese-Word-Vectors",
-            "stars": 12225
+            "stars": 12225,
+            "topics": [
+              "chinese",
+              "chinese-word-segmentation",
+              "embedding",
+              "embeddings",
+              "vectors-trained",
+              "word-embeddings"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1184,12 +1928,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。",
+            "homepage": null,
             "id": 120246942,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-26T08:52:43Z",
+            "open_issues": 38,
             "owner": "pwxcoo",
             "repo": "chinese-xinhua",
-            "stars": 11658
+            "stars": 11659,
+            "topics": [
+              "chinese",
+              "chinese-characters",
+              "chinese-language",
+              "chinese-nlp",
+              "chinese-simplified",
+              "chinese-traditional",
+              "data",
+              "json",
+              "json-data",
+              "json-dataset",
+              "python3",
+              "scraper"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1200,12 +1962,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）",
+            "homepage": "https://ieeexplore.ieee.org/document/9599397",
             "id": 192814419,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-19T00:57:10Z",
+            "open_issues": 1,
             "owner": "ymcui",
             "repo": "Chinese-BERT-wwm",
-            "stars": 10224
+            "stars": 10225,
+            "topics": [
+              "bert",
+              "bert-wwm",
+              "bert-wwm-ext",
+              "chinese-bert",
+              "nlp",
+              "pytorch",
+              "rbt",
+              "roberta",
+              "roberta-wwm",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1216,12 +1994,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP",
+            "homepage": null,
             "id": 169745123,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-02-06T11:42:20Z",
+            "open_issues": 23,
             "owner": "brightmart",
             "repo": "nlp_chinese_corpus",
-            "stars": 9908
+            "stars": 9910,
+            "topics": [
+              "bert",
+              "chinese",
+              "chinese-corpus",
+              "chinese-dataset",
+              "chinese-nlp",
+              "corpus",
+              "dataset",
+              "language-model",
+              "news",
+              "nlp",
+              "pretrain",
+              "question-answering",
+              "text-classification",
+              "wiki",
+              "word2vec"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1232,12 +2031,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chinese version of GPT2 training code, using BERT tokenizer.",
+            "homepage": null,
             "id": 189511050,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-25T09:14:25Z",
+            "open_issues": 109,
             "owner": "Morizeyao",
             "repo": "GPT2-Chinese",
-            "stars": 7597
+            "stars": 7597,
+            "topics": [
+              "chinese",
+              "gpt-2",
+              "nlp",
+              "text-generation",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1248,12 +2058,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "搜集、整理、发布 中文 自然语言处理 语料/数据集，与 有志之士 共同 促进 中文 自然语言处理 的 发展。",
+            "homepage": null,
             "id": 126583907,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-01-29T11:21:37Z",
+            "open_issues": 25,
             "owner": "SophonPlus",
             "repo": "ChineseNlpCorpus",
-            "stars": 6595
+            "stars": 6594,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1264,12 +2079,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "史上最大规模1.4亿中文知识图谱开源下载",
+            "homepage": "https://www.ownthink.com/",
             "id": 214452673,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-06T02:04:16Z",
+            "open_issues": 27,
             "owner": "ownthink",
             "repo": "KnowledgeGraphData",
-            "stars": 5199
+            "stars": 5200,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1280,12 +2100,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":herb: 中文近义词：聊天机器人，智能问答工具包",
+            "homepage": "https://bot.chatopera.com/",
             "id": 104722806,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-01T02:48:25Z",
+            "open_issues": 32,
             "owner": "chatopera",
             "repo": "Synonyms",
-            "stars": 5111
+            "stars": 5111,
+            "topics": [
+              "ai",
+              "chatbot",
+              "nlp",
+              "synonyms"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1296,12 +2126,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策",
+            "homepage": null,
             "id": 111991760,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-11T14:23:01Z",
+            "open_issues": 63,
             "owner": "qq547276542",
             "repo": "Agriculture_KnowledgeGraph",
-            "stars": 4389
+            "stars": 4389,
+            "topics": [
+              "knowledge-graph",
+              "named-entity-recognition",
+              "question-answering",
+              "relation-extraction"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1312,12 +2152,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "中文人名语料库。人名生成器。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名。可用于中文分词、人名实体识别。",
+            "homepage": "https://open.namemoe.com/",
             "id": 75951828,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2025-11-09T15:23:52Z",
+            "open_issues": 8,
             "owner": "wainshine",
             "repo": "Chinese-Names-Corpus",
-            "stars": 4327
+            "stars": 4327,
+            "topics": [
+              "corpus",
+              "dataset",
+              "dict",
+              "names",
+              "ner"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1328,12 +2179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "中文公开聊天语料库",
+            "homepage": null,
             "id": 156045572,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-23T03:30:29Z",
+            "open_issues": 2,
             "owner": "codemayq",
             "repo": "chinese-chatbot-corpus",
-            "stars": 4195
+            "stars": 4195,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1344,12 +2200,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo",
+            "homepage": "https://github.com/dbiir/UER-py/wiki",
             "id": 180572200,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-09T11:12:55Z",
+            "open_issues": 136,
             "owner": "dbiir",
             "repo": "UER-py",
-            "stars": 3112
+            "stars": 3112,
+            "topics": [
+              "albert",
+              "bart",
+              "bert",
+              "chinese",
+              "classification",
+              "clue",
+              "elmo",
+              "fine-tuning",
+              "gpt",
+              "gpt-2",
+              "model-zoo",
+              "natural-language-processing",
+              "ner",
+              "pegasus",
+              "pre-training",
+              "pytorch",
+              "roberta",
+              "t5",
+              "unilm",
+              "xlm-roberta"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1360,12 +2242,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "敏感词过滤的几种实现+某1w词敏感词库",
+            "homepage": null,
             "id": 3106659,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-20T05:11:02Z",
+            "open_issues": 13,
             "owner": "observerss",
             "repo": "textfilter",
-            "stars": 2108
+            "stars": 2108,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1376,12 +2263,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "用于训练中英文对话系统的语料库 Datasets for Training Chatbot System",
+            "homepage": null,
             "id": 84949566,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-09-23T21:06:45Z",
+            "open_issues": 2,
             "owner": "candlewill",
             "repo": "Dialog_Corpus",
-            "stars": 2056
+            "stars": 2056,
+            "topics": [
+              "chatbot",
+              "corpus",
+              "dataset",
+              "dialog",
+              "system"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1392,12 +2290,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard",
+            "homepage": "https://www.CLUEbenchmarks.com",
             "id": 213035548,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-18T17:35:23Z",
+            "open_issues": 22,
             "owner": "ChineseGLUE",
             "repo": "ChineseGLUE",
-            "stars": 1782
+            "stars": 1782,
+            "topics": [
+              "albert",
+              "bert",
+              "chinese-corpus",
+              "datasets",
+              "glue",
+              "language-understanding",
+              "nlp",
+              "pre-trained-model"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1408,12 +2320,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "公司名语料库。机构名语料库。公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。",
+            "homepage": "https://open.namemoe.com/",
             "id": 152345999,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-03-27T04:57:45Z",
+            "open_issues": 3,
             "owner": "wainshine",
             "repo": "Company-Names-Corpus",
-            "stars": 1296
+            "stars": 1296,
+            "topics": [
+              "company",
+              "corpus",
+              "dataset",
+              "dict",
+              "ner"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1424,12 +2347,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":helicopter: 保险行业语料库，聊天机器人",
+            "homepage": "https://www.chatopera.com/",
             "id": 98441914,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-26T06:56:24Z",
+            "open_issues": 10,
             "owner": "chatopera",
             "repo": "insuranceqa-corpus-zh",
-            "stars": 1065
+            "stars": 1065,
+            "topics": [
+              "chatbot",
+              "corpus",
+              "dataset",
+              "insurance",
+              "insuranceqa-corpus-zh",
+              "machine-learning",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "qasystem",
+              "question-answering"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1440,12 +2379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Chinese Language Pre-trained Model Zoo",
+            "homepage": null,
             "id": 194585684,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-03-18T12:26:29Z",
+            "open_issues": 4,
             "owner": "thunlp",
             "repo": "OpenCLaP",
-            "stars": 981
+            "stars": 981,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1456,12 +2400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "开放中文知识图谱的schema",
+            "homepage": "http://cnschema.openkg.cn",
             "id": 88093207,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-14T01:25:11Z",
+            "open_issues": 14,
             "owner": "cnschema",
             "repo": "cnSchema",
-            "stars": 833
+            "stars": 833,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1472,12 +2421,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "漢語拆字字典",
+            "homepage": null,
             "id": 42071008,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-01-08T03:15:16Z",
+            "open_issues": 2,
             "owner": "kfcd",
             "repo": "chaizi",
-            "stars": 820
+            "stars": 820,
+            "topics": [
+              "chinese",
+              "chinese-characters",
+              "components",
+              "creative-commons",
+              "dictionaries",
+              "hanzi",
+              "radicals",
+              "strokes"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1488,12 +2451,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books:中文突发事件语料库（Chinese Emergency Corpus）-上海大学-语义智能实验室",
+            "homepage": null,
             "id": 29645832,
             "language": null,
+            "license": null,
             "last_commit": "2019-09-26T16:12:59Z",
+            "open_issues": 2,
             "owner": "shijiebei2009",
             "repo": "CEC-Corpus",
-            "stars": 722
+            "stars": 722,
+            "topics": [
+              "corpus-data"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1504,12 +2474,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SentiBridge: A Knowledge Base for Entity-Sentiment Representation",
+            "homepage": null,
             "id": 63647292,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2018-09-20T12:32:26Z",
+            "open_issues": 2,
             "owner": "rainarch",
             "repo": "SentiBridge",
-            "stars": 637
+            "stars": 637,
+            "topics": [
+              "knowledge-graph",
+              "sentiment-analysis"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1520,12 +2498,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some useful Chinese corpus datasets 中文语料小数据",
+            "homepage": null,
             "id": 66624413,
             "language": null,
+            "license": null,
             "last_commit": "2020-03-29T08:43:35Z",
+            "open_issues": 2,
             "owner": "crownpku",
             "repo": "Small-Chinese-Corpus",
-            "stars": 545
+            "stars": 545,
+            "topics": [
+              "chinese-nlp",
+              "corpus"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1536,12 +2522,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SmoothNLP 金融文本数据集(公开)  Public Financial Datasets for NLP Researches Only",
+            "homepage": null,
             "id": 188807513,
             "language": null,
+            "license": null,
             "last_commit": "2019-09-03T08:46:58Z",
+            "open_issues": 2,
             "owner": "smoothnlp",
             "repo": "FinancialDatasets",
-            "stars": 503
+            "stars": 503,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1552,12 +2543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SmoothNLP 金融文本数据集(公开)  Public Financial Datasets for NLP Researches Only",
+            "homepage": null,
             "id": 188807513,
             "language": null,
+            "license": null,
             "last_commit": "2019-09-03T08:46:58Z",
+            "open_issues": 2,
             "owner": "smoothnlp",
             "repo": "FinancialDatasets",
-            "stars": 503
+            "stars": 503,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1568,12 +2564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Discourse-Level Named Entity Recognition and Relation Extraction Dataset  for Chinese Literature Text",
+            "homepage": null,
             "id": 111274903,
             "language": null,
+            "license": null,
             "last_commit": "2018-05-14T02:24:09Z",
+            "open_issues": 7,
             "owner": "lancopku",
             "repo": "Chinese-Literature-NER-RE-Dataset",
-            "stars": 425
+            "stars": 425,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1584,12 +2585,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "word2vec/glove/swivel binary file on chinese corpus",
+            "homepage": null,
             "id": 54204378,
             "language": null,
+            "license": null,
             "last_commit": "2016-10-25T03:22:02Z",
+            "open_issues": 8,
             "owner": "to-shimo",
             "repo": "chinese-word2vec",
-            "stars": 402
+            "stars": 402,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1600,12 +2606,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PTT 八卦版問答中文語料",
+            "homepage": "https://www.kaggle.com/zake7749/pttgossipingcorpus",
             "id": 95656663,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-18T13:31:39Z",
+            "open_issues": 0,
             "owner": "zake7749",
             "repo": "Gossiping-Chinese-Corpus",
-            "stars": 246
+            "stars": 246,
+            "topics": [
+              "chatbot",
+              "chatbot-corpus",
+              "chinese-chatbot",
+              "chinese-corpus",
+              "chinese-dataset",
+              "chinese-nlp",
+              "corpus",
+              "dataset",
+              "dialog",
+              "ptt",
+              "question-answering"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1616,12 +2639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Chinese sentiment dataset may be useful for sentiment analysis.",
+            "homepage": null,
             "id": 71310702,
             "language": null,
+            "license": null,
             "last_commit": "2016-11-15T11:13:48Z",
+            "open_issues": 3,
             "owner": "z17176",
             "repo": "Chinese_conversation_sentiment",
-            "stars": 233
+            "stars": 233,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1632,12 +2660,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "该项目通过scrapy爬虫从巨潮网络的服务器获取中国股市的公告",
+            "homepage": null,
             "id": 68565256,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-05-24T18:51:27Z",
+            "open_issues": 1,
             "owner": "startprogress",
             "repo": "China_stock_announcement",
-            "stars": 216
+            "stars": 216,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1648,12 +2681,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a corpus of Chinese abbreviation, including negative full forms.",
+            "homepage": null,
             "id": 114519073,
             "language": null,
+            "license": null,
             "last_commit": "2021-07-17T09:56:58Z",
+            "open_issues": 0,
             "owner": "zhangyics",
             "repo": "Chinese-abbreviation-dataset",
-            "stars": 197
+            "stars": 197,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1664,12 +2702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ChineseTextualInference project including chinese corpus build and inferecence model, 中文文本推断项目,包括88万文本蕴含中文文本蕴含数据集的翻译与构建,基于深度学习的文本蕴含判定模型构建.",
+            "homepage": null,
             "id": 159425085,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-12-15T05:11:57Z",
+            "open_issues": 4,
             "owner": "liuhuanyong",
             "repo": "ChineseTextualInference",
-            "stars": 174
+            "stars": 174,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1680,12 +2723,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Chinese Cloze-style RC Dataset: People's Daily & Children's Fairy Tale (CFT)",
+            "homepage": null,
             "id": 63309400,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2019-03-26T02:12:22Z",
+            "open_issues": 0,
             "owner": "ymcui",
             "repo": "Chinese-Cloze-RC",
-            "stars": 173
+            "stars": 173,
+            "topics": [
+              "reading-comprehension"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1696,12 +2746,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 55698963,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-05-06T19:03:12Z",
+            "open_issues": 9,
             "owner": "UniversalDependencies",
             "repo": "UD_Chinese-GSD",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         }
@@ -1718,12 +2773,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Learning Book Chinese Translation",
+            "homepage": "https://exacity.github.io/deeplearningbook-chinese",
             "id": 75830968,
             "language": "TeX",
+            "license": null,
             "last_commit": "2019-12-03T04:25:44Z",
+            "open_issues": 68,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37518
+            "stars": 37522,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1734,12 +2794,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Course materials for Georgia Tech CS 4650 and 7650, \"Natural Language\"",
+            "homepage": null,
             "id": 8485124,
             "language": "TeX",
+            "license": null,
             "last_commit": "2023-01-31T05:37:16Z",
+            "open_issues": 2,
             "owner": "jacobeisenstein",
             "repo": "gt-nlp-class",
-            "stars": 5081
+            "stars": 5082,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1750,12 +2815,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Natural Language Processing Tasks and References",
+            "homepage": null,
             "id": 105979162,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2018-09-20T03:10:58Z",
+            "open_issues": 0,
             "owner": "Kyubyong",
             "repo": "nlp_tasks",
-            "stars": 3009
+            "stars": 3009,
+            "topics": [
+              "language",
+              "natural-language-processing",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1766,12 +2840,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NLP研究入门之道",
+            "homepage": null,
             "id": 179971787,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-11-26T07:08:27Z",
+            "open_issues": 0,
             "owner": "zibuyu",
             "repo": "research_tao",
-            "stars": 2069
+            "stars": 2069,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         },
@@ -1782,12 +2861,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "自然语言处理实验（sougou数据集），TF-IDF，文本分类、聚类、词向量、情感识别、关系抽取等",
+            "homepage": null,
             "id": 83276304,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-18T09:12:22Z",
+            "open_issues": 8,
             "owner": "Roshanson",
             "repo": "TextInfoExp",
-            "stars": 1731
+            "stars": 1731,
+            "topics": [
+              "nlp",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
         }
@@ -1796,15 +2883,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:07:51.800Z",
+    "last_updated": "2026-08-29T04:13:36.072Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
+      "homepage": null,
       "id": 97191792,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2023-07-27T02:54:52Z",
+      "open_issues": 11,
       "owner": "crownpku",
       "repo": "Awesome-Chinese-NLP",
-      "stars": 7925
+      "stars": 7926,
+      "topics": [
+        "chinese-nlp",
+        "nlp"
+      ]
     },
     "original_repository_sha": "923e20ae68723d30a62fc48d3e552bf3ba6a0829",
     "enhanced_repository": "enhansome/enhansome-Awesome-Chinese-NLP",
