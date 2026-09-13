@@ -147,7 +147,7 @@
                 "open_issues": 12,
                 "owner": "hankcs",
                 "repo": "HanLP",
-                "stars": 36489,
+                "stars": 36491,
                 "topics": [
                   "dependency-parser",
                   "hanlp",
@@ -177,7 +177,7 @@
                 "open_issues": 44,
                 "owner": "isnowfy",
                 "repo": "snownlp",
-                "stars": 6631,
+                "stars": 6632,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
@@ -640,7 +640,7 @@
                 "open_issues": 95,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7874,
+                "stars": 7876,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -707,7 +707,7 @@
                 "open_issues": 35,
                 "owner": "chartbeat-labs",
                 "repo": "textacy",
-                "stars": 2239,
+                "stars": 2240,
                 "topics": [
                   "natural-language-processing",
                   "nlp",
@@ -740,7 +740,7 @@
                 "open_issues": 700,
                 "owner": "fxsjy",
                 "repo": "jieba",
-                "stars": 35148,
+                "stars": 35151,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
@@ -806,7 +806,7 @@
                 "id": 95233790,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T02:27:42Z",
+                "last_commit": "2026-09-12T13:41:56Z",
                 "open_issues": 15,
                 "owner": "go-ego",
                 "repo": "gse",
@@ -1024,7 +1024,7 @@
                 "open_issues": 19,
                 "owner": "snorkel-team",
                 "repo": "snorkel",
-                "stars": 6005,
+                "stars": 6006,
                 "topics": [
                   "ai",
                   "data-augmentation",
@@ -1056,7 +1056,7 @@
                 "open_issues": 19,
                 "owner": "thunlp",
                 "repo": "OpenNRE",
-                "stars": 4466,
+                "stars": 4465,
                 "topics": [
                   "relation-extraction"
                 ]
@@ -1079,7 +1079,7 @@
                 "open_issues": 140,
                 "owner": "facebook",
                 "repo": "duckling",
-                "stars": 4320,
+                "stars": 4321,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
@@ -1349,7 +1349,7 @@
                 "open_issues": 72,
                 "owner": "gunthercox",
                 "repo": "ChatterBot",
-                "stars": 14509,
+                "stars": 14510,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -1441,7 +1441,7 @@
                 "open_issues": 67,
                 "owner": "snipsco",
                 "repo": "snips-nlu",
-                "stars": 3972,
+                "stars": 3973,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -1479,7 +1479,7 @@
                 "open_issues": 72,
                 "owner": "yangjianxin1",
                 "repo": "GPT2-chitchat",
-                "stars": 2996,
+                "stars": 2995,
                 "topics": [
                   "chichat",
                   "dialogpt",
@@ -1833,7 +1833,7 @@
                 "open_issues": 197,
                 "owner": "OFA-Sys",
                 "repo": "Chinese-CLIP",
-                "stars": 6006,
+                "stars": 6007,
                 "topics": [
                   "chinese",
                   "clip",
@@ -1881,7 +1881,7 @@
             "open_issues": 137,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53407,
+            "stars": 53414,
             "topics": [
               "chinese",
               "chinese-poetry",
@@ -2067,7 +2067,7 @@
             "open_issues": 25,
             "owner": "SophonPlus",
             "repo": "ChineseNlpCorpus",
-            "stars": 6599,
+            "stars": 6600,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
@@ -2088,7 +2088,7 @@
             "open_issues": 27,
             "owner": "ownthink",
             "repo": "KnowledgeGraphData",
-            "stars": 5202,
+            "stars": 5201,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
@@ -2883,7 +2883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:37:32.405Z",
+    "last_updated": "2026-09-13T01:27:49.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
