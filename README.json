@@ -198,7 +198,7 @@
                 "open_issues": 76,
                 "owner": "HIT-SCIR",
                 "repo": "ltp",
-                "stars": 5260,
+                "stars": 5261,
                 "topics": [
                   "chinese-nlp",
                   "machine-learning",
@@ -302,7 +302,7 @@
                 "open_issues": 71,
                 "owner": "FudanNLP",
                 "repo": "fastNLP",
-                "stars": 3139,
+                "stars": 3138,
                 "topics": [
                   "chinese-nlp",
                   "deep-learning",
@@ -576,7 +576,7 @@
                 "open_issues": 440,
                 "owner": "piskvorky",
                 "repo": "gensim",
-                "stars": 16494,
+                "stars": 16492,
                 "topics": [
                   "data-mining",
                   "data-science",
@@ -609,8 +609,8 @@
                 "id": 11008076,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-25T18:39:55Z",
-                "open_issues": 192,
+                "last_commit": "2026-09-27T23:44:13Z",
+                "open_issues": 193,
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
                 "stars": 10121,
@@ -636,7 +636,7 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T18:31:18Z",
+                "last_commit": "2026-09-27T23:24:32Z",
                 "open_issues": 96,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
@@ -989,7 +989,7 @@
                 "open_issues": 46,
                 "owner": "brightmart",
                 "repo": "text_classification",
-                "stars": 7936,
+                "stars": 7935,
                 "topics": [
                   "attention-mechanism",
                   "classification",
@@ -1479,7 +1479,7 @@
                 "open_issues": 72,
                 "owner": "yangjianxin1",
                 "repo": "GPT2-chitchat",
-                "stars": 2994,
+                "stars": 2995,
                 "topics": [
                   "chichat",
                   "dialogpt",
@@ -1881,7 +1881,7 @@
             "open_issues": 137,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53493,
+            "stars": 53498,
             "topics": [
               "chinese",
               "chinese-poetry",
@@ -1909,7 +1909,7 @@
             "open_issues": 60,
             "owner": "Embedding",
             "repo": "Chinese-Word-Vectors",
-            "stars": 12231,
+            "stars": 12230,
             "topics": [
               "chinese",
               "chinese-word-segmentation",
@@ -1937,7 +1937,7 @@
             "open_issues": 38,
             "owner": "pwxcoo",
             "repo": "chinese-xinhua",
-            "stars": 11686,
+            "stars": 11687,
             "topics": [
               "chinese",
               "chinese-characters",
@@ -2003,7 +2003,7 @@
             "open_issues": 23,
             "owner": "brightmart",
             "repo": "nlp_chinese_corpus",
-            "stars": 9918,
+            "stars": 9917,
             "topics": [
               "bert",
               "chinese",
@@ -2040,7 +2040,7 @@
             "open_issues": 109,
             "owner": "Morizeyao",
             "repo": "GPT2-Chinese",
-            "stars": 7594,
+            "stars": 7595,
             "topics": [
               "chinese",
               "gpt-2",
@@ -2067,7 +2067,7 @@
             "open_issues": 25,
             "owner": "SophonPlus",
             "repo": "ChineseNlpCorpus",
-            "stars": 6604,
+            "stars": 6603,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
@@ -2161,7 +2161,7 @@
             "open_issues": 8,
             "owner": "wainshine",
             "repo": "Chinese-Names-Corpus",
-            "stars": 4334,
+            "stars": 4335,
             "topics": [
               "corpus",
               "dataset",
@@ -2782,7 +2782,7 @@
             "open_issues": 68,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37653,
+            "stars": 37655,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
@@ -2883,7 +2883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:56:11.141Z",
+    "last_updated": "2026-09-28T02:01:25.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
