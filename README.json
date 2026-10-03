@@ -4,132 +4,6 @@
       "description": null,
       "items": [
         {
-          "children": [],
-          "description": null,
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
-            "homepage": null,
-            "id": 97191792,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2023-07-27T02:54:52Z",
-            "open_issues": 10,
-            "owner": "crownpku",
-            "repo": "Awesome-Chinese-NLP",
-            "stars": 7921,
-            "topics": [
-              "chinese-nlp",
-              "nlp"
-            ]
-          },
-          "title": "1. Chinese NLP Toolkits 中文NLP工具",
-          "first_seen": "2026-08-28T07:07:51.800Z"
-        },
-        {
-          "children": [],
-          "description": null,
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
-            "homepage": null,
-            "id": 97191792,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2023-07-27T02:54:52Z",
-            "open_issues": 10,
-            "owner": "crownpku",
-            "repo": "Awesome-Chinese-NLP",
-            "stars": 7921,
-            "topics": [
-              "chinese-nlp",
-              "nlp"
-            ]
-          },
-          "title": "2. Corpus 中文语料",
-          "first_seen": "2026-08-28T07:07:51.800Z"
-        },
-        {
-          "children": [],
-          "description": null,
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
-            "homepage": null,
-            "id": 97191792,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2023-07-27T02:54:52Z",
-            "open_issues": 10,
-            "owner": "crownpku",
-            "repo": "Awesome-Chinese-NLP",
-            "stars": 7921,
-            "topics": [
-              "chinese-nlp",
-              "nlp"
-            ]
-          },
-          "title": "3. Organizations 中文NLP学术组织及竞赛",
-          "first_seen": "2026-08-28T07:07:51.800Z"
-        },
-        {
-          "children": [],
-          "description": null,
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
-            "homepage": null,
-            "id": 97191792,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2023-07-27T02:54:52Z",
-            "open_issues": 10,
-            "owner": "crownpku",
-            "repo": "Awesome-Chinese-NLP",
-            "stars": 7921,
-            "topics": [
-              "chinese-nlp",
-              "nlp"
-            ]
-          },
-          "title": "4. Industry 中文NLP商业服务",
-          "first_seen": "2026-08-28T07:07:51.800Z"
-        },
-        {
-          "children": [],
-          "description": null,
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
-            "homepage": null,
-            "id": 97191792,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2023-07-27T02:54:52Z",
-            "open_issues": 10,
-            "owner": "crownpku",
-            "repo": "Awesome-Chinese-NLP",
-            "stars": 7921,
-            "topics": [
-              "chinese-nlp",
-              "nlp"
-            ]
-          },
-          "title": "5. Learning Materials 学习资料",
-          "first_seen": "2026-08-28T07:07:51.800Z"
-        }
-      ],
-      "title": "Contents 列表"
-    },
-    {
-      "description": null,
-      "items": [
-        {
           "children": [
             {
               "node_type": "item",
@@ -1043,7 +917,7 @@
             {
               "node_type": "item",
               "title": "Neural Relation Extraction implemented with LSTM in TensorFlow",
-              "description": null,
+              "description": "thunlp/OpenNRE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1197,7 +1071,7 @@
             {
               "node_type": "item",
               "title": "A neural network model for Chinese named entity recognition",
-              "description": null,
+              "description": "zjy-ucas/ChineseNER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1881,7 +1755,7 @@
             "open_issues": 137,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53530,
+            "stars": 53532,
             "topics": [
               "chinese",
               "chinese-poetry",
@@ -1896,7 +1770,7 @@
         {
           "node_type": "item",
           "title": "上百种预训练中文词向量",
-          "description": null,
+          "description": "Embedding/Chinese-Word-Vectors",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1958,7 +1832,7 @@
         {
           "node_type": "item",
           "title": "中文预训练BERT with Whole Word Masking",
-          "description": null,
+          "description": "ymcui/Chinese-BERT-wwm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2075,7 +1949,7 @@
         {
           "node_type": "item",
           "title": "大规模1.4亿中文知识图谱开源下载",
-          "description": null,
+          "description": "ownthink/KnowledgeGraphData",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2175,7 +2049,7 @@
         {
           "node_type": "item",
           "title": "中文公开聊天语料库",
-          "description": null,
+          "description": "codemayq/chinese-chatbot-corpus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2188,7 +2062,7 @@
             "open_issues": 2,
             "owner": "codemayq",
             "repo": "chinese-chatbot-corpus",
-            "stars": 4196,
+            "stars": 4197,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
@@ -2396,7 +2270,7 @@
         {
           "node_type": "item",
           "title": "开放中文知识图谱的schema",
-          "description": null,
+          "description": "cnschema/cnSchema",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2417,7 +2291,7 @@
         {
           "node_type": "item",
           "title": "漢語拆字字典",
-          "description": null,
+          "description": "kfcd/chaizi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2581,7 +2455,7 @@
         {
           "node_type": "item",
           "title": "中文word2vec模型",
-          "description": null,
+          "description": "to-shimo/chinese-word2vec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2602,7 +2476,7 @@
         {
           "node_type": "item",
           "title": "八卦版問答中文語料",
-          "description": null,
+          "description": "zake7749/Gossiping-Chinese-Corpus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2769,7 +2643,7 @@
         {
           "node_type": "item",
           "title": "中文Deep Learning Book",
-          "description": null,
+          "description": "exacity/deeplearningbook-chinese",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2790,7 +2664,7 @@
         {
           "node_type": "item",
           "title": "[Course materials for Georgia Tech CS 4650 and 7650, \"Natural Language\"] (https://github.com/jacobeisenstein/gt-nlp-class",
-          "description": ")",
+          "description": "jacobeisenstein/gt-nlp-class",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2883,7 +2757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:23:46.993Z",
+    "last_updated": "2026-10-03T04:24:38.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
