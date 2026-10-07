@@ -487,7 +487,7 @@
                 "open_issues": 195,
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
-                "stars": 10121,
+                "stars": 10120,
                 "topics": [
                   "named-entity-recognition",
                   "natural-language-processing",
@@ -614,7 +614,7 @@
                 "open_issues": 700,
                 "owner": "fxsjy",
                 "repo": "jieba",
-                "stars": 35182,
+                "stars": 35181,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
@@ -953,7 +953,7 @@
                 "open_issues": 140,
                 "owner": "facebook",
                 "repo": "duckling",
-                "stars": 4324,
+                "stars": 4323,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
@@ -1178,10 +1178,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-24T07:39:04Z",
-                "open_issues": 155,
+                "open_issues": 154,
                 "owner": "RasaHQ",
                 "repo": "rasa",
-                "stars": 21344,
+                "stars": 21343,
                 "topics": [
                   "bot",
                   "bot-framework",
@@ -1542,7 +1542,7 @@
                 "open_issues": 1,
                 "owner": "zake7749",
                 "repo": "Chatbot",
-                "stars": 907,
+                "stars": 906,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
@@ -1755,7 +1755,7 @@
             "open_issues": 137,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 53557,
+            "stars": 53563,
             "topics": [
               "chinese",
               "chinese-poetry",
@@ -1877,7 +1877,7 @@
             "open_issues": 23,
             "owner": "brightmart",
             "repo": "nlp_chinese_corpus",
-            "stars": 9921,
+            "stars": 9920,
             "topics": [
               "bert",
               "chinese",
@@ -2357,7 +2357,7 @@
             "open_issues": 2,
             "owner": "rainarch",
             "repo": "SentiBridge",
-            "stars": 638,
+            "stars": 639,
             "topics": [
               "knowledge-graph",
               "sentiment-analysis"
@@ -2522,7 +2522,7 @@
             "open_issues": 3,
             "owner": "z17176",
             "repo": "Chinese_conversation_sentiment",
-            "stars": 233,
+            "stars": 234,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
@@ -2656,7 +2656,7 @@
             "open_issues": 70,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37784,
+            "stars": 37786,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
@@ -2757,7 +2757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:26:59.389Z",
+    "last_updated": "2026-10-07T02:44:55.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
