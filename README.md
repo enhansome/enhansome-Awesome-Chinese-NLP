@@ -36,7 +36,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 ### Toolkits 综合NLP工具包
 
-* [HanLP](https://github.com/hankcs/HanLP) ⭐ 36,538 | 🐛 11 | 🌐 Python | 📅 2026-11-07 (Java)
+* [HanLP](https://github.com/hankcs/HanLP) ⭐ 36,536 | 🐛 11 | 🌐 Python | 📅 2026-11-07 (Java)
 
 * [SnowNLP](https://github.com/isnowfy/snownlp) ⭐ 6,640 | 🐛 45 | 🌐 Python | 📅 2020-01-19 (Python) Python library for processing Chinese text
 
@@ -56,7 +56,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 * [DeepNLP](https://github.com/rockingdingo/deepnlp) ⭐ 1,359 | 🐛 43 | 🌐 Python | 📅 2024-10-11 (Python) Deep Learning NLP Pipeline implemented on Tensorflow with pretrained Chinese models.
 
-* [小明NLP](https://github.com/SeanLee97/xmnlp) ⭐ 1,297 | 🐛 9 | 🌐 Python | 📅 2022-11-12 (Python) 轻量级中文自然语言处理工具
+* [小明NLP](https://github.com/SeanLee97/xmnlp) ⭐ 1,296 | 🐛 9 | 🌐 Python | 📅 2022-11-12 (Python) 轻量级中文自然语言处理工具
 
 * [lightNLP](https://github.com/smilelight/lightNLP) ⭐ 831 | 🐛 6 | 🌐 Python | 📅 2020-12-14 (Python) 基于Pytorch和torchtext的自然语言处理深度学习框架
 
@@ -74,15 +74,15 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 ### Popular NLP Toolkits for English/Multi-Language 常用的英文或支持多语言的NLP工具包
 
-* [gensim](https://github.com/RaRe-Technologies/gensim) ⭐ 16,512 | 🐛 453 | 🌐 Python | 📅 2025-11-01 (Python) Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora.
+* [gensim](https://github.com/RaRe-Technologies/gensim) ⭐ 16,513 | 🐛 453 | 🌐 Python | 📅 2025-11-01 (Python) Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora.
 
-* [CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,126 | 🐛 196 | 🌐 Java | 📅 2026-11-09 by Stanford (Java) A Java suite of core NLP tools.
+* [CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,126 | 🐛 196 | 🌐 Java | 📅 2026-11-12 by Stanford (Java) A Java suite of core NLP tools.
 
-* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,913 | 🐛 111 | 🌐 Python | 📅 2026-11-11 by Stanford (Python) A Python NLP Library for Many Human Languages
+* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,913 | 🐛 112 | 🌐 Python | 📅 2026-11-12 by Stanford (Python) A Python NLP Library for Many Human Languages
 
 * [Kashgari](https://github.com/BrikerMan/Kashgari) ⭐ 2,379 | 🐛 28 | 🌐 Python | 📅 2024-09-03 - Simple and powerful NLP framework, build your state-of-art model in 5 minutes for named entity recognition (NER), part-of-speech tagging (PoS) and text classification tasks. Includes BERT and word2vec embedding.
 
-* [textacy](https://github.com/chartbeat-labs/textacy) ⭐ 2,239 | 🐛 37 | 🌐 Python | 📅 2023-09-22 (Python) NLP, before and after spaCy
+* [textacy](https://github.com/chartbeat-labs/textacy) ⭐ 2,240 | 🐛 37 | 🌐 Python | 📅 2023-09-22 (Python) NLP, before and after spaCy
 
 * [NLTK](http://www.nltk.org/) (Python) Natural Language Toolkit
 
@@ -92,7 +92,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 ### Chinese Word Segment 中文分词
 
-* [Jieba 结巴中文分词](https://github.com/fxsjy/jieba) ⭐ 35,225 | 🐛 706 | 🌐 Python | 📅 2024-08-21 (Python及大量其它编程语言衍生) 做最好的 Python 中文分词组件
+* [Jieba 结巴中文分词](https://github.com/fxsjy/jieba) ⭐ 35,227 | 🐛 706 | 🌐 Python | 📅 2024-08-21 (Python及大量其它编程语言衍生) 做最好的 Python 中文分词组件
 
 * [北大中文分词工具](https://github.com/lancopku/pkuseg-python) ⭐ 6,712 | 🐛 136 | 🌐 Python | 📅 2022-11-05 (Python) 高准确度中文分词工具，简单易用，跟现有开源工具相比大幅提高了分词的准确率。
 
@@ -120,11 +120,11 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 * [Neural Relation Extraction implemented with LSTM in TensorFlow](https://github.com/thunlp/TensorFlow-NRE) ⭐ 4,466 | 🐛 19 | 🌐 Python | 📅 2024-01-10
 
-* [Duckling](https://github.com/facebookincubator/duckling) ⭐ 4,325 | 🐛 140 | 🌐 Haskell | 📅 2026-03-15 (Haskell) Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
+* [Duckling](https://github.com/facebookincubator/duckling) ⭐ 4,326 | 🐛 140 | 🌐 Haskell | 📅 2026-03-15 (Haskell) Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
 
 * [TextRank4ZH](https://github.com/letiantian/TextRank4ZH) ⭐ 3,388 | 🐛 10 | 🌐 Python | 📅 2025-05-07 从中文文本中自动提取关键词和摘要
 
-* [MITIE](https://github.com/mit-nlp/MITIE) ⭐ 2,961 | 🐛 19 | 🌐 C++ | 📅 2025-09-28 (C++) library and tools for information extraction
+* [MITIE](https://github.com/mit-nlp/MITIE) ⭐ 2,960 | 🐛 19 | 🌐 C++ | 📅 2025-09-28 (C++) library and tools for information extraction
 
 * [Familia](https://github.com/baidu/Familia) ⭐ 2,645 | 🐛 28 | 🌐 C++ | 📅 2021-07-01 百度出品的 A Toolkit for Industrial Topic Modeling
 
@@ -140,15 +140,15 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 ### QA & Chatbot 问答和聊天机器人
 
-* [Rasa NLU](https://github.com/RasaHQ/rasa_nlu) ⭐ 21,382 | 🐛 160 | 🌐 Python | 📅 2026-07-24 (Python) turn natural language into structured data, a Chinese fork at [Rasa NLU Chi](https://github.com/crownpku/Rasa_NLU_Chi) ⭐ 1,530 | 🐛 85 | 🌐 Python | 📅 2024-07-30
+* [Rasa NLU](https://github.com/RasaHQ/rasa_nlu) ⭐ 21,385 | 🐛 160 | 🌐 Python | 📅 2026-07-24 (Python) turn natural language into structured data, a Chinese fork at [Rasa NLU Chi](https://github.com/crownpku/Rasa_NLU_Chi) ⭐ 1,529 | 🐛 85 | 🌐 Python | 📅 2024-07-30
 
-* [Chatterbot](https://github.com/gunthercox/ChatterBot) ⭐ 14,522 | 🐛 79 | 🌐 Python | 📅 2026-11-01 (Python) ChatterBot is a machine learning, conversational dialog engine for creating chat bots.
+* [Chatterbot](https://github.com/gunthercox/ChatterBot) ⭐ 14,521 | 🐛 79 | 🌐 Python | 📅 2026-11-01 (Python) ChatterBot is a machine learning, conversational dialog engine for creating chat bots.
 
 * [QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG) ⭐ 7,410 | 🐛 77 | 🌐 Python | 📅 2024-08-08 (Python) 以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。
 
 * [DeepPavlov](https://github.com/deepmipt/DeepPavlov) ⭐ 6,997 | 🐛 57 | 🌐 Python | 📅 2025-08-06 (Python) An open source library for building end-to-end dialog systems and training chatbots.
 
-* [Snips NLU](https://github.com/snipsco/snips-nlu) ⭐ 3,974 | 🐛 68 | 🌐 Python | 📅 2023-05-22 (Python) Snips NLU is a Python library that allows to parse sentences written in natural language and extracts structured information.
+* [Snips NLU](https://github.com/snipsco/snips-nlu) ⭐ 3,973 | 🐛 68 | 🌐 Python | 📅 2023-05-22 (Python) Snips NLU is a Python library that allows to parse sentences written in natural language and extracts structured information.
 
 * [GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) ⭐ 2,998 | 🐛 71 | 🌐 Python | 📅 2023-10-30 (Python) 用于中文闲聊的GPT2模型
 
@@ -156,7 +156,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 * [Rasa Core](https://github.com/RasaHQ/rasa_core) ⚠️ Archived (Python) machine learning based dialogue engine for conversational software
 
-* [CDial-GPT](https://github.com/thu-coai/CDial-GPT) ⭐ 1,977 | 🐛 27 | 🌐 Python | 📅 2023-06-12 (Python) 提供了一个大规模中文对话数据集，并提供了在此数据集上的中文对话预训练模型（中文GPT模型）
+* [CDial-GPT](https://github.com/thu-coai/CDial-GPT) ⭐ 1,978 | 🐛 27 | 🌐 Python | 📅 2023-06-12 (Python) 提供了一个大规模中文对话数据集，并提供了在此数据集上的中文对话预训练模型（中文GPT模型）
 
 * [QuestionAnsweringSystem](https://github.com/ysc/QuestionAnsweringSystem) ⭐ 1,948 | 🐛 10 | 🌐 Java | 📅 2018-08-21 (Java) 一个Java实现的人机问答系统，能够自动分析问题并给出候选答案。
 
@@ -164,7 +164,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 * [基于SmartQQ的自动机器人框架](https://github.com/Yinzo/SmartQQBot) ⚠️ Archived (Python)
 
-* [Chatbot](https://github.com/zake7749/Chatbot) ⭐ 906 | 🐛 1 | 🌐 Python | 📅 2024-10-18 (Python) 基於向量匹配的情境式聊天機器人
+* [Chatbot](https://github.com/zake7749/Chatbot) ⭐ 905 | 🐛 1 | 🌐 Python | 📅 2024-10-18 (Python) 基於向量匹配的情境式聊天機器人
 
 * [使用TensorFlow实现的Sequence to Sequence的聊天机器人模型](https://github.com/qhduan/Seq2Seq_Chatbot_QA) ⚠️ Archived (Python)
 
@@ -180,24 +180,24 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 ### Multi-Modal Representation & Retrieval 多模态表征与检索
 
-* [Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP) ⭐ 6,043 | 🐛 198 | 🌐 Jupyter Notebook | 📅 2026-03-31 (Python) Chinese-CLIP是中文多模态图文表征预训练模型。其基于OpenAI的CLIP模型结构，利用大规模中文原生图文语料完成预训练，目前开源了多个模型规模，同时公开了技术报告论文及检索demo
+* [Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP) ⭐ 6,044 | 🐛 198 | 🌐 Jupyter Notebook | 📅 2026-03-31 (Python) Chinese-CLIP是中文多模态图文表征预训练模型。其基于OpenAI的CLIP模型结构，利用大规模中文原生图文语料完成预训练，目前开源了多个模型规模，同时公开了技术报告论文及检索demo
 
 <br />
 <br />
 
 ## Corpus 中文语料
 
-* [最全中华古诗词数据库](https://github.com/chinese-poetry/chinese-poetry) ⭐ 54,256 | 🐛 141 | 🌐 JavaScript | 📅 2026-06-17 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+* [最全中华古诗词数据库](https://github.com/chinese-poetry/chinese-poetry) ⭐ 54,309 | 🐛 141 | 🌐 JavaScript | 📅 2026-06-17 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
 
 * [上百种预训练中文词向量](https://github.com/Embedding/Chinese-Word-Vectors) ⭐ 12,252 | 🐛 61 | 🌐 Python | 📅 2023-10-30
 
-* [中华新华字典数据库](https://github.com/pwxcoo/chinese-xinhua) ⭐ 11,767 | 🐛 39 | 🌐 Python | 📅 2023-12-26 包括歇后语，成语，词语，汉字。
+* [中华新华字典数据库](https://github.com/pwxcoo/chinese-xinhua) ⭐ 11,772 | 🐛 39 | 🌐 Python | 📅 2023-12-26 包括歇后语，成语，词语，汉字。
 
 * [中文预训练BERT with Whole Word Masking](https://github.com/ymcui/Chinese-BERT-wwm) ⭐ 10,231 | 🐛 0 | 🌐 Python | 📅 2026-04-19
 
 * [大规模中文自然语言处理语料](https://github.com/brightmart/nlp_chinese_corpus) ⭐ 9,939 | 🐛 23 | 📅 2026-02-06 维基百科(wiki2019zh),新闻语料(news2016zh),百科问答(baike2018qa)
 
-* [中文GPT2训练代码](https://github.com/Morizeyao/GPT2-Chinese) ⭐ 7,599 | 🐛 108 | 🌐 Python | 📅 2024-04-25 可以写诗，新闻，小说，或是训练通用语言模型。
+* [中文GPT2训练代码](https://github.com/Morizeyao/GPT2-Chinese) ⭐ 7,600 | 🐛 108 | 🌐 Python | 📅 2024-04-25 可以写诗，新闻，小说，或是训练通用语言模型。
 
 * [ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) ⭐ 6,617 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2019-01-29 情感/观点/评论 倾向性分析，中文命名实体识别，推荐系统
 
@@ -207,7 +207,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 * [农业知识图谱](https://github.com/qq547276542/Agriculture_KnowledgeGraph) ⭐ 4,408 | 🐛 63 | 🌐 Python | 📅 2025-02-11 农业领域的信息检索，命名实体识别，关系抽取，分类树构建，数据挖掘
 
-* [中文人名语料库](https://github.com/wainshine/Chinese-Names-Corpus) ⭐ 4,348 | 🐛 7 | 📅 2025-11-09 中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名。
+* [中文人名语料库](https://github.com/wainshine/Chinese-Names-Corpus) ⭐ 4,349 | 🐛 7 | 📅 2025-11-09 中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名。
 
 * [中文公开聊天语料库](https://github.com/codemayq/chaotbot_corpus_Chinese) ⭐ 4,214 | 🐛 2 | 🌐 Python | 📅 2024-04-23
 
@@ -225,11 +225,11 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 * [OpenCLaP](https://github.com/thunlp/OpenCLaP) ⭐ 980 | 🐛 4 | 📅 2020-03-18 多领域开源中文预训练语言模型仓库 (from Tsinghua)
 
-* [开放中文知识图谱的schema](https://github.com/cnschema/cnschema) ⭐ 836 | 🐛 14 | 🌐 Python | 📅 2022-12-14
+* [开放中文知识图谱的schema](https://github.com/cnschema/cnschema) ⭐ 837 | 🐛 14 | 🌐 Python | 📅 2022-12-14
 
 * [漢語拆字字典](https://github.com/kfcd/chaizi) ⭐ 828 | 🐛 2 | 📅 2023-01-08
 
-* [中文突发事件语料库](https://github.com/shijiebei2009/CEC-Corpus) ⭐ 721 | 🐛 2 | 📅 2019-09-26 Chinese Emergency Corpus
+* [中文突发事件语料库](https://github.com/shijiebei2009/CEC-Corpus) ⭐ 720 | 🐛 2 | 📅 2019-09-26 Chinese Emergency Corpus
 
 * [SentiBridge: 中文实体情感知识库](https://github.com/rainarch/SentiBridge) ⭐ 639 | 🐛 2 | 🌐 Python | 📅 2018-09-20 刻画人们如何描述某个实体，包含新闻、旅游、餐饮，共计30万对。
 
@@ -368,7 +368,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 ## Learning Materials 学习资料
 
-* [中文Deep Learning Book](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,988 | 🐛 70 | 🌐 TeX | 📅 2019-12-03
+* [中文Deep Learning Book](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,994 | 🐛 70 | 🌐 TeX | 📅 2019-12-03
 
 * \[Course materials for Georgia Tech CS 4650 and 7650, "Natural Language"] (<https://github.com/jacobeisenstein/gt-nlp-class> ⭐ 5,088 | 🐛 2 | 🌐 TeX | 📅 2023-01-31)
 
@@ -392,4 +392,4 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
