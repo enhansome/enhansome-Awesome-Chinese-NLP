@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "hankcs",
                 "repo": "HanLP",
-                "stars": 36536,
+                "stars": 36535,
                 "topics": [
                   "dependency-parser",
                   "hanlp",
@@ -51,7 +51,7 @@
                 "open_issues": 45,
                 "owner": "isnowfy",
                 "repo": "snownlp",
-                "stars": 6640,
+                "stars": 6641,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
@@ -72,7 +72,7 @@
                 "open_issues": 75,
                 "owner": "HIT-SCIR",
                 "repo": "ltp",
-                "stars": 5267,
+                "stars": 5268,
                 "topics": [
                   "chinese-nlp",
                   "machine-learning",
@@ -149,7 +149,7 @@
                 "open_issues": 16,
                 "owner": "ownthink",
                 "repo": "Jiagu",
-                "stars": 3424,
+                "stars": 3423,
                 "topics": [
                   "chinese-word-segmentation",
                   "cws",
@@ -447,10 +447,10 @@
                 "language": "Python",
                 "license": "LGPL-2.1",
                 "last_commit": "2025-11-01T12:01:39Z",
-                "open_issues": 453,
+                "open_issues": 455,
                 "owner": "piskvorky",
                 "repo": "gensim",
-                "stars": 16513,
+                "stars": 16515,
                 "topics": [
                   "data-mining",
                   "data-science",
@@ -483,8 +483,8 @@
                 "id": 11008076,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-12T01:17:10Z",
-                "open_issues": 196,
+                "last_commit": "2026-11-12T15:47:19Z",
+                "open_issues": 197,
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
                 "stars": 10126,
@@ -510,11 +510,11 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T01:16:27Z",
+                "last_commit": "2026-11-12T17:30:01Z",
                 "open_issues": 112,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7913,
+                "stars": 7915,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -614,7 +614,7 @@
                 "open_issues": 706,
                 "owner": "fxsjy",
                 "repo": "jieba",
-                "stars": 35227,
+                "stars": 35226,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
@@ -684,7 +684,7 @@
                 "open_issues": 13,
                 "owner": "go-ego",
                 "repo": "gse",
-                "stars": 2846,
+                "stars": 2847,
                 "topics": [
                   "chinese",
                   "english",
@@ -1105,7 +1105,7 @@
                 "open_issues": 4,
                 "owner": "liuhuanyong",
                 "repo": "ComplexEventExtraction",
-                "stars": 1230,
+                "stars": 1231,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
@@ -1181,7 +1181,7 @@
                 "open_issues": 160,
                 "owner": "RasaHQ",
                 "repo": "rasa",
-                "stars": 21385,
+                "stars": 21384,
                 "topics": [
                   "bot",
                   "bot-framework",
@@ -1223,7 +1223,7 @@
                 "open_issues": 79,
                 "owner": "gunthercox",
                 "repo": "ChatterBot",
-                "stars": 14521,
+                "stars": 14522,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -1252,7 +1252,7 @@
                 "open_issues": 77,
                 "owner": "liuhuanyong",
                 "repo": "QASystemOnMedicalKG",
-                "stars": 7410,
+                "stars": 7411,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:51.800Z"
@@ -1414,7 +1414,7 @@
                 "open_issues": 0,
                 "owner": "RasaHQ",
                 "repo": "rasa_core",
-                "stars": 2343,
+                "stars": 2341,
                 "topics": [
                   "bot",
                   "bot-framework",
@@ -1755,7 +1755,7 @@
             "open_issues": 141,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 54309,
+            "stars": 54348,
             "topics": [
               "chinese",
               "chinese-poetry",
@@ -1845,7 +1845,7 @@
             "open_issues": 0,
             "owner": "ymcui",
             "repo": "Chinese-BERT-wwm",
-            "stars": 10231,
+            "stars": 10232,
             "topics": [
               "bert",
               "bert-wwm",
@@ -1914,7 +1914,7 @@
             "open_issues": 108,
             "owner": "Morizeyao",
             "repo": "GPT2-Chinese",
-            "stars": 7600,
+            "stars": 7599,
             "topics": [
               "chinese",
               "gpt-2",
@@ -2035,7 +2035,7 @@
             "open_issues": 7,
             "owner": "wainshine",
             "repo": "Chinese-Names-Corpus",
-            "stars": 4349,
+            "stars": 4350,
             "topics": [
               "corpus",
               "dataset",
@@ -2203,7 +2203,7 @@
             "open_issues": 3,
             "owner": "wainshine",
             "repo": "Company-Names-Corpus",
-            "stars": 1296,
+            "stars": 1295,
             "topics": [
               "company",
               "corpus",
@@ -2656,7 +2656,7 @@
             "open_issues": 70,
             "owner": "exacity",
             "repo": "deeplearningbook-chinese",
-            "stars": 37994,
+            "stars": 37996,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
@@ -2677,7 +2677,7 @@
             "open_issues": 2,
             "owner": "jacobeisenstein",
             "repo": "gt-nlp-class",
-            "stars": 5088,
+            "stars": 5089,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
@@ -2698,7 +2698,7 @@
             "open_issues": 0,
             "owner": "Kyubyong",
             "repo": "nlp_tasks",
-            "stars": 3012,
+            "stars": 3011,
             "topics": [
               "language",
               "natural-language-processing",
@@ -2744,7 +2744,7 @@
             "open_issues": 8,
             "owner": "Roshanson",
             "repo": "TextInfoExp",
-            "stars": 1730,
+            "stars": 1731,
             "topics": [
               "nlp",
               "python"
@@ -2757,7 +2757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T04:23:30.447Z",
+    "last_updated": "2026-11-13T03:39:58.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
