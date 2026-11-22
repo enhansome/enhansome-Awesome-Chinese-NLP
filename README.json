@@ -447,7 +447,7 @@
                 "language": "Python",
                 "license": "LGPL-2.1",
                 "last_commit": "2025-11-01T12:01:39Z",
-                "open_issues": 456,
+                "open_issues": 457,
                 "owner": "piskvorky",
                 "repo": "gensim",
                 "stars": 16518,
@@ -483,7 +483,7 @@
                 "id": 11008076,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-21T04:02:14Z",
+                "last_commit": "2026-11-21T08:56:56Z",
                 "open_issues": 197,
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
@@ -514,7 +514,7 @@
                 "open_issues": 103,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7920,
+                "stars": 7921,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -1181,7 +1181,7 @@
                 "open_issues": 161,
                 "owner": "RasaHQ",
                 "repo": "rasa",
-                "stars": 21397,
+                "stars": 21399,
                 "topics": [
                   "bot",
                   "bot-framework",
@@ -1219,11 +1219,11 @@
                 "id": 24561828,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-20T13:35:18Z",
-                "open_issues": 69,
+                "last_commit": "2026-11-21T16:21:51Z",
+                "open_issues": 65,
                 "owner": "gunthercox",
                 "repo": "ChatterBot",
-                "stars": 14526,
+                "stars": 14527,
                 "topics": [
                   "bot",
                   "chatbot",
@@ -1628,7 +1628,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2023-02-02T10:59:04Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "sdfsky",
                 "repo": "tipask",
                 "stars": 306,
@@ -1707,7 +1707,7 @@
                 "open_issues": 198,
                 "owner": "OFA-Sys",
                 "repo": "Chinese-CLIP",
-                "stars": 6055,
+                "stars": 6056,
                 "topics": [
                   "chinese",
                   "clip",
@@ -1755,7 +1755,7 @@
             "open_issues": 141,
             "owner": "chinese-poetry",
             "repo": "chinese-poetry",
-            "stars": 54508,
+            "stars": 54517,
             "topics": [
               "chinese",
               "chinese-poetry",
@@ -1811,7 +1811,7 @@
             "open_issues": 39,
             "owner": "pwxcoo",
             "repo": "chinese-xinhua",
-            "stars": 11791,
+            "stars": 11792,
             "topics": [
               "chinese",
               "chinese-characters",
@@ -1983,7 +1983,7 @@
             "open_issues": 32,
             "owner": "chatopera",
             "repo": "Synonyms",
-            "stars": 5107,
+            "stars": 5108,
             "topics": [
               "ai",
               "chatbot",
@@ -2062,7 +2062,7 @@
             "open_issues": 2,
             "owner": "codemayq",
             "repo": "chinese-chatbot-corpus",
-            "stars": 4214,
+            "stars": 4215,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:51.800Z"
@@ -2757,7 +2757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T04:19:14.554Z",
+    "last_updated": "2026-11-22T03:33:13.091Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
